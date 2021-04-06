@@ -282,6 +282,9 @@ div#slider1 figure {
   height: 100px;
   width: 100px;
 }
+p {
+  font-size: 6px;
+}
 /* Column container */
 .main-row {
   display: flex;
@@ -324,9 +327,7 @@ div#slider1 figure {
   margin: 4px;
   box-shadow: 1px 1px 1px 1px #b7b7b7;
 }
-p {
-  font-size: 6px;
-}
+
 .shop-now-btn {
   border-radius: 10px;
   background: #f3cd6f;
